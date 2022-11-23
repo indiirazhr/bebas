@@ -7,9 +7,9 @@
 	<title>Document</title>
 </head>
 <body>
-	<form action="percabangan.php" method="POST">
+	<form action="coba1.php" method="POST">
 
-		<input type="text" name="nilai">
+		<input type="text" name="nama">
 		<input type="submit" value="kirim">
 
 

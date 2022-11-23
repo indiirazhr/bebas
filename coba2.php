@@ -1,6 +1,6 @@
 <?php  
 
-$koneksi = mysqli_connect("localhost","root","", "latihan");
+$koneksi = mysqli_connect("localhost","root","", "tugas");
 
 
 
